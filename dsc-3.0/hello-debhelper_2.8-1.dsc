@@ -14,12 +14,15 @@ Package-List:
  hello-debhelper deb devel extra
 Checksums-Sha1: 
  5a32898ddce0586bb3f4035fc63324a6a515ce38 697483 hello-debhelper_2.8.orig.tar.gz
+ 373af08f44cad7a1efed7f8a8af5358950c06e2a 947282 hello-debhelper_2.8.orig.tar.gz.asc
  272c3ae004959649941c6b0ccd4453d66683b107 5980 hello-debhelper_2.8-1.debian.tar.gz
 Checksums-Sha256: 
  e6b77f81f7cf7daefad4a9f5b65de6cae9c3f13b8cfbaea8cb53bb5ea5460d73 697483 hello-debhelper_2.8.orig.tar.gz
+ 998e0a53ac451c151176abcc72d19d91419f997458f3fb7684ae942d01f6dd4e 947282 hello-debhelper_2.8.orig.tar.gz.asc
  b6b5722a2e353dc91282b8fc7231b014a1d26678960affa0dcfa74d84236aa0a 5980 hello-debhelper_2.8-1.debian.tar.gz
 Files: 
  6a67cbbbc0420061ef938a9a2736fbd6 697483 hello-debhelper_2.8.orig.tar.gz
+ 6aa4a8ea43f074fed22afc2869b377ce 947282 hello-debhelper_2.8.orig.tar.gz.asc
  b2b4b3a45587caa115a27944557ce29d 5980 hello-debhelper_2.8-1.debian.tar.gz
 
 -----BEGIN PGP SIGNATURE-----
